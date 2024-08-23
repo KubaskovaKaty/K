@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KubaskovaKaty
+- 👋 Hi, I’m @Katy/JavaScript  Czechitas
 - 👀 I’m interested in IT, running
-- 🌱 I’m currently learning in Czechitas
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
