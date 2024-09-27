@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Katy/JavaScript  Czechitas
+- 👋 Hi, I’m @Katy
 - 👀 I’m interested in IT, running
 - 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
